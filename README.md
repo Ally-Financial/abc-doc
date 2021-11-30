@@ -1,2 +1,2 @@
 # abc-doc
-Automated business process Capture and documentation with PII detection.
+Automated Business process Capture and DOCumentation with PII detection.
