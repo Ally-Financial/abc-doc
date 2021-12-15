@@ -9,7 +9,6 @@ Automated Business process Capture and Documentation With PII Detection
 4. Backout plan 
 
 Documenting Process\tasks is simple,lets do it!*   
-And as we do it lets do it right as like an Ally employee does - **Removing sensitive PII data**
 ------
 
 ABC Doc is a python based utility built on open source. IT also dwells into aws cloud realm for text intelligent extraction and PII classifications
