@@ -39,10 +39,10 @@ ABC Doc is a python based utility built on open source. IT also dwells into aws 
 
 - **Setup environment for editing only **
     pip install pynput
-	pip install python-docx
-	pip install keyboard
-	pip install pysimplegui
-	pip install pyautogui
+    pip install python-docx
+    pip install keyboard
+    pip install pysimplegui
+    pip install pyautogui
     pip install opencv
     pip install json
     pip install requests
