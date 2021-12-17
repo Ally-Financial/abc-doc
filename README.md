@@ -31,7 +31,7 @@ ABC Doc is a python based utility built on open source. IT also dwells into aws 
     - The captured data is also scrutinized for PII and sections of images are blurred
 
 
-## Install
+## Install for Developers
 - **Ensure you have the latest version of Python 3.x, or 3.8 or greater**
     - https://www.python.org/downloads/
 
@@ -48,10 +48,15 @@ ABC Doc is a python based utility built on open source. IT also dwells into aws 
     - pip install requests
     - pip install base64
     - pip install scrubadub
-
 ## Run
     - After running the install above
-    - Run this "Process Capture Tool V1.py"
+    - Run this "ABC_Doc.py"
+    
+## Install for End Users
+Download ABC_Doc.exe and Mouse Icon.png in same folder.
+
+## Run
+Double click ABC_Doc.exe to run application
 
 ## Change Image and Logo
     - To update the mosue logo replace mouse logo with new files
