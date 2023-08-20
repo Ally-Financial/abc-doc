@@ -1,0 +1,8 @@
+pynput==1.7.6
+python-docx==0.8.11
+keyboard==0.13.5
+pysimplegui==4.60.5
+pyautogui==0.9.54
+opencv-python==4.8.0.76
+requests==2.31.0
+scrubadub==2.0.0
