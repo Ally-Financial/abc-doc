@@ -1,14 +1,14 @@
 # ABC Doc
 Automated Business process Capture and Documentation With PII Detection
 ------
-**Automated Business process Capture and Documentation**   
-*Preparing Documentation is always time consuming and many a times outdated. ABC Doc helps overcome the challenges and can automate process\steps capture for 
+**Automated Business process Capture and Documentation**
+*Preparing Documentation is always time consuming and many a times outdated. ABC Doc helps overcome the challenges and can automate process\steps capture for
 1. Business process
 2. Knowledge Transfer
 3. Implementation Plan
-4. Backout plan 
+4. Backout plan
 
-Documenting Process\tasks is simple,lets do it!*   
+Documenting Process\tasks is simple,lets do it!*
 ------
 
 ABC Doc is a python based utility built on open source. IT also dwells into aws cloud realm for text intelligent extraction and PII classifications
@@ -16,7 +16,7 @@ ABC Doc is a python based utility built on open source. IT also dwells into aws 
 ## Features
 ---
 - **Simple, easy to use**
-    -GUI makes utility easy to use 
+    -GUI makes utility easy to use
 - **Easy Setup**
     - All you need is Windows and MS Office
 - **Unobtrusive**
@@ -43,15 +43,14 @@ ABC Doc is a python based utility built on open source. IT also dwells into aws 
     - pip install keyboard
     - pip install pysimplegui
     - pip install pyautogui
-    - pip install opencv
-    - pip install json
+    - pip install opencv-python
     - pip install requests
-    - pip install base64
     - pip install scrubadub
+    - or used the provided [requirements.txt](requirements.txt) file and create a virtual environment based on that.
 ## Run
     - After running the install above
     - Run this "ABC_Doc.py"
-    
+
 ## Install for End Users
 Download ABC_Doc.exe and Mouse Icon.png in same folder.
 
@@ -64,10 +63,10 @@ Double click ABC_Doc.exe to run application
 
 ## People
 ---
-**Concept**   
+**Concept**
 The concept and idea belongs to Shreekant Mandvikar, Ganesh Viswanathan, Ally R2D2 Hackathon team
 
-**Developers**   
+**Developers**
 Ally R2D2 Hackathon team
 
 ## Roadmap
