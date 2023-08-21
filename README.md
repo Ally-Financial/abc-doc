@@ -58,7 +58,7 @@ Download ABC_Doc.exe and Mouse Icon.png in same folder.
 Double click ABC_Doc.exe to run application
 
 ## Change Image and Logo
-    - To update the mosue logo replace mouse logo with new files
+    - To update the mouse logo replace mouse logo with new files
     - To replace logo and icons in title bar and on utility change it to x64 using "Convert Image To base64.py"
 
 ## People
